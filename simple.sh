@@ -2,5 +2,5 @@
 echo "Hello World"
 echo "guru biswagar"
 ##############################################
-devops is my fev tool
-and i wiil be a great devops engineer
+echo "devops is my fev tool"
+echo "and i wiil be a great devops engineer"
